@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "kong-pdk": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.66"
+  }
+}
